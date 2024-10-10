@@ -1,6 +1,6 @@
 //----------------------------------------------------------------------------------------------
-//Name: Lujain Omar Bakkar
-//ID: 445005807
+//Name: Lujain Omar Bakkar.
+//ID: 445005807.
 
 // Java code for linearly search x in arr[]. If x
 
